@@ -1,6 +1,8 @@
 # Kuaför Dükkanı Web Sitesi
 
-Bu proje, temel HTML kullanılarak hazırlanmış basit bir kuaför sitesi örneğidir.
+Bu proje, temel HTML kullanılarak hazırlanmış basit bir kuaför sitesi örneğidir. 
+
+[Siteye Gitmek İçin](https://eraykiyici.github.io/kuaforsitesi/index.html)
 
 ## Dosyalar
 - `index.html` — Ana Sayfa  
