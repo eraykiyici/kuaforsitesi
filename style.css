@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f5eded;
+}
+
+p {
+    color: #000000;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1 {
+    color: #333333;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none; 
+    color: black;
+    padding: 0.3%;
+}
+
+nav {
+    color: #0000ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: end;
+}
+
+.img1-class {
+    width: 300px;
+    height: auto;
+    margin-left: 500px;
+}
+
+.img2-class {
+    width: 300px;
+    height: auto;
+    float: right;
+    margin-right: 500px;
+}
